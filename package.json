@@ -1,0 +1,11 @@
+{
+  "name": "igem-ties-flyer",
+  "version": "0.0.1",
+  "main": "src/index.html",
+  "author": "Prashant Sinha <prashant+git@noop.pw>",
+  "license": "MIT",
+  "private": true,
+  "devDependencies": {
+    "parcel-bundler": "^1.12.4"
+  }
+}
